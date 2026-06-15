@@ -29,9 +29,5 @@ async def main():
 if __name__ == '__main__':
     keep_alive() # Startet den Webserver-Trick
     asyncio.run(main()) # Startet den Bot
-    # ... (dein restlicher Code mit keep_alive und main)
-
-if __name__ == '__main__':
-    keep_alive()  # Startet den Webserver-Trick
-    asyncio.run(main())  # Startet den Bot
+    
 
