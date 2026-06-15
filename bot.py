@@ -19,7 +19,7 @@ def keep_alive():
     t.start()
 
 # --- Dein eigentlicher Bot ---
-TOKEN = "8998358080:AAEuF7AUlMzHkZbmQHowslAZPxV54hi4l5I
+TOKEN = "8998358080:AAF-NpC7oFHAQvlNwhAEpnXfr1UNFnb4V5M
 
 async def main():
     application = ApplicationBuilder().token(TOKEN).build()
